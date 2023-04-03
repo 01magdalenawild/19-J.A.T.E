@@ -24,3 +24,4 @@ THEN I explain how the content in the text editor has been retrieved from our In
 WHEN I load my web application
 THEN I should have, and can explain, the registered service worker using workbox
 ```
+### Walkthrough Video
